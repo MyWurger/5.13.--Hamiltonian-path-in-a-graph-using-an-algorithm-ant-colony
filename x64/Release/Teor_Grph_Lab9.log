@@ -1,0 +1,9 @@
+﻿  Lab9.cpp
+D:\cv\Teor_Grph_Lab9\Lab9.cpp(372,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cv\Teor_Grph_Lab9\Lab9.cpp(430,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  2 of 594 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Teor_Grph_Lab9.vcxproj -> D:\cv\Teor_Grph_Lab9\x64\Release\Teor_Grph_Lab9.exe
